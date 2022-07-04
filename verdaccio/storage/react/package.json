@@ -1,0 +1,45 @@
+{
+	"name": "react",
+	"versions": {
+		"1.0.0": {
+			"name": "react",
+			"version": "1.0.0",
+			"description": "",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": "",
+			"license": "ISC",
+			"_id": "react@1.0.0",
+			"_nodeVersion": "16.15.0",
+			"_npmVersion": "8.13.2",
+			"dist": {
+				"integrity": "sha512-0UU5Q96uXKYiX6z9kfMLMvXaSIv63VXvJgMdCHoVKM+pKBh1LPazbjxoZ9biNlQ3D93eawCawWpL2Y9HtLn9HA==",
+				"shasum": "a8077324fe776a54abbfd43d24d8099c23d83c58",
+				"tarball": "http://localhost:4873/react/-/react-1.0.0.tgz"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2022-07-04T18:01:54.481Z",
+		"created": "2022-07-04T18:01:54.481Z",
+		"1.0.0": "2022-07-04T18:01:54.481Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"_uplinks": {},
+	"_distfiles": {},
+	"_attachments": {
+		"react-1.0.0.tgz": {
+			"shasum": "a8077324fe776a54abbfd43d24d8099c23d83c58",
+			"version": "1.0.0"
+		}
+	},
+	"_rev": "3-3c358c70ee5bab74",
+	"_id": "react",
+	"readme": "ERROR: No README data found!"
+}

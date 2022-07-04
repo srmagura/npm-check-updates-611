@@ -1,0 +1,9 @@
+storage: /verdaccio/storage
+auth:
+  htpasswd:
+    file: ./htpasswd
+packages:
+  "**":
+    access: $all
+    publish: $authenticated
+log: { type: stdout, format: pretty, level: http }
